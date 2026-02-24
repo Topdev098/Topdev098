@@ -49,6 +49,9 @@ I'm actively seeking collaboration opportunities on:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Rocket" width="35" height="35" /> Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,django,mongodb,mysql,postgres,redis,aws,gcp,azure,git,docker,kubernetes,nginx,postman,figma,ai,ps,pr,ae,blender,unity,unreal" />
+</p>
 
 <!--
 **Topdev098/Topdev098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
