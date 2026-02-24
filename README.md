@@ -1,10 +1,25 @@
 <div align="center">
 
-## Luca Moretti
+# Luca Moretti
 
 <div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
+
+I design and build production-ready AI systems powered by Large Language Models.
+
+My focus is not just calling APIs —  
+but architecting intelligent systems that are scalable, reliable, and user-centered.
+
+I specialize in:
+
+- LLM system design
+- Retrieval-Augmented Generation (RAG)
+- Streaming AI interfaces
+- Context management & memory systems
+- AI-powered learning tools
+- Cost and latency optimization
+
 
 <div align="center">
   
