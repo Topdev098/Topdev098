@@ -1,4 +1,8 @@
-## Hi I'm Luca Moretti, a passionate developer from 
+<div align="center">
+
+## Luca Moretti
+
+<div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
