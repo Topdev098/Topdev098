@@ -2,7 +2,7 @@
 
 # Luca Moretti
 
-<div>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
@@ -37,6 +37,20 @@ I specialize in:
   <a href="https://github.com/Topdev098?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Topdev098?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let's Collaborate
+
+I'm actively seeking collaboration opportunities on:
+- RAG-based AI applications
+- AI-powered education platforms
+- LLM-driven SaaS tools
+- Tool-integrated AI assistants
+- Production-level AI system design
+- Projects involving JavaScript, React, or Python
+
+**Open to discussing your ideas!**
+
+
 <!--
 **Topdev098/Topdev098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
