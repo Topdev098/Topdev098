@@ -24,16 +24,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
 I design and build production-ready AI systems powered by Large Language Models.
-
-My focus is not just calling APIs —  
-but architecting intelligent systems that are scalable, reliable, and user-centered.
+My focus is not just calling APIs —  but architecting intelligent systems that are scalable, reliable, and user-centered.
 
 I specialize in:
-
+- AI system architecture
 - LLM system design
 - Retrieval-Augmented Generation (RAG)
 - Streaming AI interfaces
-- Context management & memory systems
 - AI-powered learning tools
 - Cost and latency optimization
 
@@ -42,14 +39,15 @@ I'm passionate about creating AI solutions that solve real-world problems while 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let's Collaborate
 
 I'm actively seeking collaboration opportunities on:
+- AI system architecture projects
 - RAG-based AI applications
 - AI-powered education platforms
 - LLM-driven SaaS tools
-- Tool-integrated AI assistants
-- Production-level AI system design
 - Projects involving JavaScript, React, or Python
 
 **Open to discussing your ideas!**
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Rocket" width="35" height="35" /> Tech Stack
 
 
 <!--
